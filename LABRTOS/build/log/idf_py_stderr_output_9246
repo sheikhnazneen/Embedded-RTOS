@@ -1,0 +1,210 @@
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule
+  components/bootloader/subproject/components/micro-ecc/micro-ecc is out of
+  date.  Run the following command to fix: git submodule update --init
+  --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32 is out of date.  Run the
+  following command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32c2/esp32c2-bt-lib is out of
+  date.  Run the following command to fix: git submodule update --init
+  --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32c3_family is out of date.
+  Run the following command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32c6/esp32c6-bt-lib is out of
+  date.  Run the following command to fix: git submodule update --init
+  --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/controller/lib_esp32h2/esp32h2-bt-lib is out of
+  date.  Run the following command to fix: git submodule update --init
+  --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/bt/host/nimble/nimble is out of date.  Run the
+  following command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/cmock/CMock is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/json/cJSON is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/lwip/lwip is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+Cloning into '/home/nazneen/esp/esp-idf/components/mbedtls/mbedtls'...
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/mqtt/esp-mqtt is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/openthread/lib is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+Cloning into '/home/nazneen/esp/esp-idf/components/openthread/openthread'...
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/protobuf-c/protobuf-c is out of date.  Run the
+  following command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/spiffs/spiffs is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Warning at /home/nazneen/esp/esp-idf/tools/cmake/git_submodules.cmake:52 (message):
+  Git submodule components/unity/unity is out of date.  Run the following
+  command to fix: git submodule update --init --recursive
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:109 (git_submodule_check)
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:272 (__build_get_idf_git_revision)
+  /home/nazneen/esp/esp-idf/tools/cmake/idf.cmake:55 (__build_init)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:29 (include)
+  CMakeLists.txt:3 (include)
+
+
+CMake Error at /home/nazneen/esp/esp-idf/tools/cmake/component.cmake:229 (message):
+  CMake Warning (dev) at build_properties.temp.cmake:8:
+
+    Syntax Warning in cmake code at column 106
+
+  
+
+    Argument not separated from preceding token by whitespace.
+
+  Call Stack (most recent call first):
+
+    /home/nazneen/esp/esp-idf/tools/cmake/scripts/component_get_requirements.cmake:3 (include)
+
+  This warning is for project developers.  Use -Wno-dev to suppress it.
+
+
+
+  CMake Error at /home/nazneen/esp/esp-idf/components/mqtt/CMakeLists.txt:3
+  (message):
+
+    Missing esp-mqtt submodule.  Please run 'git submodule update --init
+    --recursive' in ESP-IDF directory to fix this.
+
+  Call Stack (most recent call first):
+
+    /home/nazneen/esp/esp-idf/tools/cmake/scripts/component_get_requirements.cmake:107 (include)
+    /home/nazneen/esp/esp-idf/tools/cmake/scripts/component_get_requirements.cmake:160 (__component_get_requirements)
+
+  
+
+
+
+Call Stack (most recent call first):
+  /home/nazneen/esp/esp-idf/tools/cmake/build.cmake:645 (__component_get_requirements)
+  /home/nazneen/esp/esp-idf/tools/cmake/project.cmake:735 (idf_build_process)
+  CMakeLists.txt:6 (project)
+
+
